@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AirlineReservation.API/AirlineReservation.API.csproj" />
+    <Project Path="src/AirlineReservation.Application/AirlineReservation.Application.csproj" Id="aae2935a-d764-465d-aab5-81ecb4b93324" />
+    <Project Path="src/AirlineReservation.Domain/AirlineReservation.Domain.csproj" Id="718f60e6-d1dc-477c-b2ff-73b3e4bf2046" />
+    <Project Path="src/AirlineReservation.Infrastructure/AirlineReservation.Infrastructure.csproj" Id="92d2d446-858d-40e8-bd0d-53e9eca499f9" />
+  </Folder>
+</Solution>
